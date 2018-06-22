@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="bankloans.loans.services.BankService.loans" />
+          <option value="bankloans.loans.services.PDService.*" />
+          <option value="bankloans.loans.services.PDService.loans" />
+          <option value="bankloans.loans.services.ELService.loans" />
+          <option value="bankloans.loans.services.LoanService.loans" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
